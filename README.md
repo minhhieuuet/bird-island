@@ -12,6 +12,6 @@ cd client
 <br/>
 yarn
 <br/>
-yarn dev - start front end
+yarn dev
 <br/>
 <img src="./result.png"/>
